@@ -8,5 +8,7 @@ First
     <link rel="stylesheet" href="new.css">
    </head>
   <body>
+      <div class="main">
+      </div>
   </body>
  </html>
